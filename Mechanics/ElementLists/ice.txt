@@ -1,0 +1,8 @@
+Info: The ice type can slow down your note speed by 25% and deplete your health by 0.25% every second for three seconds every time the opponent hits notes.
+
+Effect List:
+
+ - Slow your note speed by 25%
+ - Deplete your health by 0.25 every seconds
+ - Reduce your health gain by 25%
+ - Effects last for 3 seconds
